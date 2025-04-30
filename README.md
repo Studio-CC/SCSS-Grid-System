@@ -1,5 +1,7 @@
 # SCSS Grid System
 
+[View Demo]([http://projects.chriscarruthers.co.uk/sass-grid/])
+
 🚀 **Lightweight, Highly Configurable Flexbox/SCSS Grid System**
 
 A lightweight alternative to Bootstrap, emulating the 12-column flexbox grid system. This system adds advanced functionality like easily re-definable breakpoints, customizable container widths, and gutter widths, while also omitting unnecessary bloat. The entire demo, with theming and all components enabled, compiles to just **11kb** with PurgeCSS.
