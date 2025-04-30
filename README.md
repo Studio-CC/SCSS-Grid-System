@@ -1,6 +1,11 @@
 # SCSS Grid System
 
-[View Demo]([http://projects.chriscarruthers.co.uk/sass-grid/])
+
+## Demo
+
+[View Live Demo](https://projects.chriscarruthers.co.uk/sass-grid/)
+
+
 
 🚀 **Lightweight, Highly Configurable Flexbox/SCSS Grid System**
 
